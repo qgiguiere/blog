@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://quinngiguiere.com/</loc>
     <lastmod>2021-02-09T16:43:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/my-first-post/</loc>
+    <loc>https://quinngiguiere.com/posts/my-first-post/</loc>
     <lastmod>2021-02-09T16:43:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/</loc>
+    <loc>https://quinngiguiere.com/posts/</loc>
     <lastmod>2021-02-09T16:43:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://quinngiguiere.com/tags/</loc>
     <lastmod>2021-02-09T16:43:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/untagged/</loc>
+    <loc>https://quinngiguiere.com/tags/untagged/</loc>
     <lastmod>2021-02-09T16:43:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://quinngiguiere.com/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://quinngiguiere.com/series/</loc>
   </url>
   
 </urlset>
